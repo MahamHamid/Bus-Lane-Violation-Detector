@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+models/*.h5
+models/*.keras
+models/*.tflite
+
+.env
+kaggle.json
+
+.DS_Store
