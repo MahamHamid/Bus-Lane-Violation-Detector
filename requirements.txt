@@ -1,0 +1,9 @@
+tensorflow>=2.15
+numpy
+pandas
+matplotlib
+opencv-python-headless
+scikit-learn
+seaborn
+kaggle
+Pillow
